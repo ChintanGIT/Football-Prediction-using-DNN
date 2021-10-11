@@ -1,0 +1,87 @@
+___Starting group H:___
+Poland vs. Senegal: Poland wins with 0.56
+Poland vs. Colombia: Draw
+Poland vs. Japan: Poland wins with 0.73
+Senegal vs. Colombia: Colombia wins with 0.58
+Senegal vs. Japan: Senegal wins with 0.65
+Colombia vs. Japan: Colombia wins with 0.70
+==========================================================
+___Starting group A:___
+Russia vs. Saudi Arabia: Draw
+Russia vs. Egypt: Egypt wins with 0.63
+Russia vs. Uruguay: Uruguay wins with 0.88
+Saudi Arabia vs. Egypt: Egypt wins with 0.57
+Saudi Arabia vs. Uruguay: Uruguay wins with 0.92
+Egypt vs. Uruguay: Uruguay wins with 0.83
+==========================================================
+___Starting group F:___
+Germany vs. Mexico: Germany wins with 0.60
+Germany vs. Sweden: Germany wins with 0.61
+Germany vs. Korea Republic: Germany wins with 0.76
+Mexico vs. Sweden: Draw
+Mexico vs. Korea Republic: Mexico wins with 0.69
+Sweden vs. Korea Republic: Sweden wins with 0.65
+==========================================================
+___Starting group E:___
+Brazil vs. Switzerland: Draw
+Brazil vs. Costa Rica: Brazil wins with 0.57
+Brazil vs. Serbia: Brazil wins with 0.63
+Switzerland vs. Costa Rica: Draw
+Switzerland vs. Serbia: Switzerland wins with 0.61
+Costa Rica vs. Serbia: Draw
+==========================================================
+___Starting group D:___
+Argentina vs. Iceland: Draw
+Argentina vs. Croatia: Draw
+Argentina vs. Nigeria: Argentina wins with 0.69
+Iceland vs. Croatia: Draw
+Iceland vs. Nigeria: Iceland wins with 0.60
+Croatia vs. Nigeria: Croatia wins with 0.61
+==========================================================
+___Starting group C:___
+France vs. Australia: France wins with 0.61
+France vs. Peru: Draw
+France vs. Denmark: Draw
+Australia vs. Peru: Peru wins with 0.75
+Australia vs. Denmark: Denmark wins with 0.78
+Peru vs. Denmark: Denmark wins with 0.55
+==========================================================
+___Starting group B:___
+Portugal vs. Spain: Draw
+Portugal vs. Morocco: Portugal wins with 0.66
+Portugal vs. Iran: Portugal wins with 0.64
+Spain vs. Morocco: Spain wins with 0.63
+Spain vs. Iran: Spain wins with 0.61
+Morocco vs. Iran: Draw
+==========================================================
+___Starting group G:___
+Belgium vs. Panama: Belgium wins with 0.73
+Belgium vs. Tunisia: Belgium wins with 0.56
+Belgium vs. England: Draw
+Panama vs. Tunisia: Tunisia wins with 0.78
+Panama vs. England: England wins with 0.84
+Tunisia vs. England: England wins with 0.57
+==========================================================
+___Starting of the round_of_16___
+Uruguay vs. Spain: Spain wins with probability 0.55
+Denmark vs. Croatia: Denmark wins with probability 0.53
+Brazil vs. Mexico: Brazil wins with probability 0.52
+England vs. Colombia: Colombia wins with probability 0.52
+Egypt vs. Portugal: Portugal wins with probability 0.81
+France vs. Argentina: Argentina wins with probability 0.59
+Switzerland vs. Germany: Germany wins with probability 0.62
+Belgium vs. Poland: Belgium wins with probability 0.54
+==========================================================
+___Starting of the quarterfinal___
+Spain vs. Denmark: Denmark wins with probability 0.51
+Brazil vs. Colombia: Brazil wins with probability 0.53
+Portugal vs. Argentina: Argentina wins with probability 0.53
+Germany vs. Belgium: Germany wins with probability 0.52
+==========================================================
+___Starting of the semifinal___
+Denmark vs. Brazil: Brazil wins with probability 0.65
+Argentina vs. Germany: Germany wins with probability 0.62
+==========================================================
+___Starting of the final___
+Brazil vs. Germany: Germany wins with probability 0.59
+==========================================================
